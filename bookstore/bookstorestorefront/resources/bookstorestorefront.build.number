@@ -1,0 +1,11 @@
+#Ant properties
+#Wed May 03 00:46:48 CEST 2023
+version.api=2105
+vendor=hybris
+group.id=de.hybris.platform
+name=bookstorestorefront
+description=bookstorestorefront
+builddate=20230503 0041
+releasedate=20210809 2305
+version=2105.23
+module.name=platform-module
